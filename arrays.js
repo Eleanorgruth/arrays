@@ -15,7 +15,7 @@ console.log(testScores);
 
 //expected output: [true, true, true, false]
 present.shift();
-console.log(present
+console.log(present);
 
 //demonstrating index position.
 // The index postion is the element number in an array. Counting starts at 0.
